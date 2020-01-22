@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb8c0cc8-4dc3-427e-8de9-0610b0911091" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WMFJAJXArJvlmHpCHvBau8o4qB" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/libraries/mysql-connector-java-8.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manch\OneDrive\Área de Trabalho\Projetos git\Financas\.idea\libraries" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.matheus.financas.modelo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TesteJPQL">
+    <configuration name="BuscaConta" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteBuscaConta" />
+      <module name="Financas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaCliente" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteContaCliente" />
+      <module name="Financas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPARelacionamento" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteJPARelacionamento" />
+      <module name="Financas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Movimentacao_Categoria" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteMovimentacoesComCategoria" />
+      <module name="Financas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopulaTesteJPQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.util.PopulaTesteJPQL" />
+      <module name="Financas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.financas.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConta" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteConta" />
+      <module name="Financas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteJPQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.financas.teste.TesteJPQL" />
+      <module name="Financas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.financas.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BuscaConta" />
+      <item itemvalue="Application.JPARelacionamento" />
+      <item itemvalue="Application.Movimentacao_Categoria" />
+      <item itemvalue="Application.ContaCliente" />
+      <item itemvalue="Application.TesteConta" />
+      <item itemvalue="Application.TesteJPQL" />
+      <item itemvalue="Application.PopulaTesteJPQL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteJPQL" />
+        <item itemvalue="Application.PopulaTesteJPQL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8c0cc8-4dc3-427e-8de9-0610b0911091" name="Default Changelist" comment="" />
+      <created>1578951482990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578951482990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
